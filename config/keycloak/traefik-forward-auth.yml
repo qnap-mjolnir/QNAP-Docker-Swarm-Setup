@@ -1,4 +1,6 @@
 #Substitute this container for the forward-auth in original traefik.yml
+#Source: https://geek-cookbook.funkypenguin.co.nz/ha-docker-swarm/traefik-forward-auth/keycloak/ 
+#Adapted with Traefik 2.0 labels
 
   traefik-forward-auth:
     image: funkypenguin/traefik-forward-auth
