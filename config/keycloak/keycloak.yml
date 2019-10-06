@@ -1,5 +1,6 @@
 # Keycloak Recipe
 # /share/appdata/config/keycloak/keycloak.yml
+# Initial source: https://geek-cookbook.funkypenguin.co.nz/recipes/keycloak/
 
 version: '3'
 
